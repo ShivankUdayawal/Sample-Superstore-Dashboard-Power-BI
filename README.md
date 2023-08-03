@@ -21,6 +21,7 @@
 - New york city has the highest number of sales where as Highest Profit is in Jamestown and Lowest Profit is in Bethlehem.
 - on Category Highest Sales and Profit is in Technology and Highest Discount is given in Furniture.
 - On Sub-Category Maximum Sales is in Copiers where as Minimum Sales is in Art and Maximum Discount is in Binders whereas Minimum Discount is in Envelopes.
-  
+
+### [Power BI Dashboard](https://app.powerbi.com/links/WHyUro7ctL?ctid=ab384a2f-d0bd-4e8d-a4b9-e3fb4ed82661&pbi_source=linkShare)
 
 ![](https://github.com/ShivankUdayawal/Sample-Superstore-Dashboard-Power-BI/blob/main/Dashboard.png)
