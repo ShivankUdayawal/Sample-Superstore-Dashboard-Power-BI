@@ -11,6 +11,6 @@
 - Microsoft Power BI
 
 ## Data:
-- Data Source : Sample Superstore Dataset from kaggle
+- Data Source : [Sample Superstore Dataset from kaggle](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
 
 ## Dashboards:
